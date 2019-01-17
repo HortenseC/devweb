@@ -14,6 +14,7 @@
 <p>Ceci est la page accueil</p>
 <p>Je suis, quant à moi, la ligne 2</p>
     <p> Serait-il possible que cela fonctionne sans miette de pain?</p>
+        <p> Serait-il possible que cela fonctionne sans miette de pain?</p>
     
     
 </body>
