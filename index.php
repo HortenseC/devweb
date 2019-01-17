@@ -12,6 +12,7 @@
 <body>
 
 <p>Ceci est la page accueil</p>
+<p>Je suis, quant à moi, la ligne 2</p>
     
 </body>
 </html>
